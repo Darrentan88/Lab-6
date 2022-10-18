@@ -1,6 +1,6 @@
 #main-navbar {
   background-color: blue;
-  overflow: visible;
+  overflow: hidden;
   float: left;
   position: relative;
 }
