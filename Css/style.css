@@ -1,4 +1,4 @@
-nav {
+#main-navbar {
   background-color: blue;
   overflow: hidden;
   float: left;
@@ -21,7 +21,7 @@ nav {
   text-decoration: underline overline;
 }
 
-aside {
+#sidebar {
   position: fixed;
   right:0%;
   background-color:red;
